@@ -1,0 +1,28 @@
+.header, .hero,.body,.bar,.footer{
+	margin-bottom: 30px;
+	padding: 10px 0;
+	background-color: yellow;
+}
+.box{margin-bottom: 4px;
+	min-height: 70px;
+	background-color: lime;
+	border: 5px solid black;
+	font-size: 50px;
+}
+.red{
+	background-color: red;
+}
+.header1, .hero1,.body1,.bar1,.footer1{
+	margin-bottom: 30px;
+	padding: 10px 0;
+	background-color: yellow;
+}
+.box1{margin-bottom: 4px;
+	min-height: 70px;
+	background-color: teal;
+	border: 5px solid black;
+	font-size: 50px;
+}
+.red1{
+	background-color: lime;
+}
